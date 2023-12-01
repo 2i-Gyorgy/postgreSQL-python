@@ -44,4 +44,4 @@ def select_all_from_table():
 
 # create_table()
 # fill_data_into_table()
-select_all_from_table()
+# select_all_from_table()
